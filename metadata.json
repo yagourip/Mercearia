@@ -1,0 +1,6 @@
+{
+  "name": "Mercearia Sales Funnel",
+  "description": "Sistema completo de Funil de Vendas para Mercearias e Minimercados integrado com Supabase para gestão de pedidos, clientes e pós-venda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
